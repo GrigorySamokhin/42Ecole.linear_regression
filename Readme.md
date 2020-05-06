@@ -1,12 +1,12 @@
-s
+
 ### ft_linear_regression @ 42 Ecole
 
 #### Usage
 
 1. Train model:
-
+```python
 -python train.py
-
+```
 2. Evaluate model:
 
 -python evaluate.py
