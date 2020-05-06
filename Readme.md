@@ -41,5 +41,5 @@ python train.py --visu mse
 
 Print MSE every 10000 cicles
 ```python
-pythin train.py --metric mse
+python train.py --metric mse
 ```
