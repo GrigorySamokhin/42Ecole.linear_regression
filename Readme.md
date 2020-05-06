@@ -3,21 +3,29 @@
 
 #### Usage
 
-1. Train model:
+##### 1. Train model:
 ```python
--python train.py
+python train.py
 ```
-2. Evaluate model:
+##### 2. Evaluate model:
 
--python evaluate.py
+```python
+python evaluate.py
+```
 
-3. Visualization
+##### 3. Visualization
 
 Visualizate regression line while training
--python train.py --visu on
+```python
+python train.py --visu on
+```
 
 Visualizate regression line after training
--python train.py --visu last
 
+```python
+python train.py --visu last
+```
 Visualizate data
--python train.py --visu last
+```python
+python train.py --visu last
+```
